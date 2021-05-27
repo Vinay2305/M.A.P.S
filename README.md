@@ -17,7 +17,13 @@ This invention is related to electrically heated tools and more particularly tow
 
 **TECHNICAL IMPLEMENTATION DETAILS**
 
-The idea is to have two robotic arms, one to hold the soldering iron and one to dispense the solder wire. Each robotic arm will be maneuvered using three servo motors. One DC geared motor will also be used for dispensing solder wire from a spool. The arms will move based on input from two motion processing units(gyroscope + accelerometer), one on each hand. The goal here is to smoothen and scale down the movements of the hands and project those movements onto the robotic arms. 
+The idea is to have two robotic arms, one to hold the soldering iron and one to dispense the solder wire. Each robotic arm will be maneuvered using three servo motors. One DC geared motor will also be used for dispensing solder wire from a spool. The arms will move based on input from two motion processing units(gyroscope + accelerometer), one on each hand. The goal here is to smoothen and scale down the movements of the hands and project those movements onto the robotic arms.
+
+![image](https://user-images.githubusercontent.com/55681323/119888073-900e1e80-bf52-11eb-9d16-fc7e309e5bdc.png)
+
+![image](https://user-images.githubusercontent.com/55681323/119888096-969c9600-bf52-11eb-94cd-49e431feef83.png)
+
+![image](https://user-images.githubusercontent.com/55681323/119888083-92707880-bf52-11eb-8cf7-c91e7885d94a.png)
 
 BY- Aniansh Raj Singh(2019019)
     Vinay Pandey(2019288)
